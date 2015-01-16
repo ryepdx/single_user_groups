@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <record id="category_single_user" model="ir.module.category">
+            <field name="name">Single User</field>
+        </record>
+    </data>
+</openerp>
